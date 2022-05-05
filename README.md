@@ -16,4 +16,4 @@ create/project --help
 
 MIT
 
-feel free to clone this repo and modify it to for your needs
+feel free to clone this repo and modify it to fit your needs
